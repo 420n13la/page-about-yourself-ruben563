@@ -19,29 +19,5 @@
   <img src = "https://i.postimg.cc/25vcW5mg/bob1.jpg">
 </div>
 
-$red: #a3d5d3;
-
-body {
-  background-color: bisque;
-}
-h1 {
-    text-align: center;
-    color: brown
-}
-h2 {
-  text-align: center;
-  color: sienna
-} 
-p{
-  text-align: center;
-  color: saddlebrown
-}
-img{
-  width: 35%;
-  height: 400px;
-  margin-left: auto;
-  margin-right: auto;
-  display: block
-   }
 
 
