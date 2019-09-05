@@ -11,12 +11,3 @@
       </div>
 
 
-$red: #a3d5d3;
-
-body {
-  background-color: lightblue;
-}
-img{
-  width: 35%
-   
-}
