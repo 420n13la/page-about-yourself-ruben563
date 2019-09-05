@@ -1,1 +1,47 @@
+<h1>User Experience and Web design</h1>
+<h2><strong>What is your name?</strong>
+<return/></h2>
+<P>My name is Ruben Londono</p>
+<h2><strong>Say one truth and two lies about yourself</strong></h2>
+<p>I hate gaming, blue is my favourite color and I am a slow runner.</P>
+<h2><strong>What do you look like?</strong></h2>
+
+<div>
+  <img src="https://i.postimg.cc/jdMh1XR6/Ruben-jpg.jpg">
+</div>
+<div> 
+  <img src = "https://i.postimg.cc/kg2WVh9H/bob3.jpg">
+</div>
+<dic>
+  <img src = "https://i.postimg.cc/1XSLXqqW/bob2.jpg">
+  </div>
+<div>
+  <img src = "https://i.postimg.cc/25vcW5mg/bob1.jpg">
+</div>
+
+$red: #a3d5d3;
+
+body {
+  background-color: bisque;
+}
+h1 {
+    text-align: center;
+    color: brown
+}
+h2 {
+  text-align: center;
+  color: sienna
+} 
+p{
+  text-align: center;
+  color: saddlebrown
+}
+img{
+  width: 35%;
+  height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block
+   }
+
 
