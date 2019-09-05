@@ -9,3 +9,14 @@
 <div>
   <img src="https://i.postimg.cc/jdMh1XR6/Ruben-jpg.jpg">
       </div>
+
+
+$red: #a3d5d3;
+
+body {
+  background-color: lightblue;
+}
+img{
+  width: 35%
+   
+}
