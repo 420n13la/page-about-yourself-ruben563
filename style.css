@@ -1,9 +1,28 @@
 $red: #a3d5d3;
 
 body {
-  background-color: lightblue;
-}
-img{
-  width: 35%
+  background-color: bisque;
    
 }
+h1 {
+     text-align: center;
+    color: brown; 
+    margin: 25px
+   
+}  
+
+
+h2 {
+  text-align: center;
+  color: sienna
+} 
+p{
+  text-align: center;
+  color: saddlebrown
+}
+img{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block
+   }
